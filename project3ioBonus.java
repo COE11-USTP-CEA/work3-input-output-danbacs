@@ -11,7 +11,7 @@ class project3ioBonus{
 	    height=Integer.valueof(b.readLine());
 	}
 	catch(Exception p){
-	    System.out.println("Invalid number!");
+	    System.out.println("Invalid number!")
 			
 	}
 	for(int w=1; w<=height; w++){
@@ -24,7 +24,7 @@ class project3ioBonus{
 		System.out.print("*");
 		}
 	    }
-	    System.out.println("")
+	    System.out.println("");
 	}
     }
 }
