@@ -2,7 +2,7 @@ import java.io.*;
 
 class project3ioBonus{
     public static void main(String[]args){
-        System.out.println("Hello Guys!" :)");
+        System.out.println("Hello Guys!");
 	InputStreamReader d = new InputStreamReader(System.in);
 	BufferedReader b = new BufferedReader (d);
 	System.out.println("Enter height of the Triangle:");
